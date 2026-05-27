@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Trợ lý Kế hoạch Cấp xã",
+  "description": "Ứng dụng hỗ trợ công chức bóc tách chỉ tiêu và soạn thảo Kế hoạch hành động Ủy ban nhân dân cấp xã chuẩn Nghị định 30/2020/NĐ-CP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
